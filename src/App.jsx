@@ -203,9 +203,7 @@ export default function App() {
         <button
           style={{ margin: "10px" }}
           className={styles.button}
-          onClick={() => {
-            () => handleStart(true);
-          }}
+          onClick={() => handleStart(true)}
         >
           Start Game
         </button>
