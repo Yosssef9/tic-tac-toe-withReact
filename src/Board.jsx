@@ -1,4 +1,4 @@
-import Square from "./Square";
+import Square from "./Square.jsx";
 import styles from "./Board.module.css";
 
 export default function Board({ squares, onClick, winnerLine }) {

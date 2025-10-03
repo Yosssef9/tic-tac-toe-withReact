@@ -1,10 +1,10 @@
 import { useState } from "react";
-import Board from "./Board";
-import CustomAlert from "./CustomAlert";
+import Board from "./Board.jsx";
+import CustomAlert from "./CustomAlert.jsx";
 import styles from "./App.module.css";
-import calcWinner from "./utils/calcWinner";
-import computerMove from "./utils/computerMove";
-import launchConfetti from "./utils/launchConfetti";
+import calcWinner from "./utils/calcWinner.js";
+import computerMove from "./utils/computerMove.js";
+import launchConfetti from "./utils/launchConfetti.js";
 
 export default function App() {
   const [playerOneWins, setPlayerOneWins] = useState(0);
