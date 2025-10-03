@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yosssef9/tic-tac-toe-withReact/static/css/main.74015b48.css",
+    "main.js": "/Yosssef9/tic-tac-toe-withReact/static/js/main.2a98939d.js",
+    "index.html": "/Yosssef9/tic-tac-toe-withReact/index.html",
+    "main.74015b48.css.map": "/Yosssef9/tic-tac-toe-withReact/static/css/main.74015b48.css.map",
+    "main.2a98939d.js.map": "/Yosssef9/tic-tac-toe-withReact/static/js/main.2a98939d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74015b48.css",
+    "static/js/main.2a98939d.js"
+  ]
+}
